@@ -1,0 +1,34 @@
+#include<stdio.h>
+int linear_search(int n,int a[],int index,int ele){
+	
+  while(index < n)
+  {
+	  
+	
+	if(a[index] == ele)
+		return index;       
+	else 
+		
+		{
+		return linear_search(n,a,index+1,ele);}}
+		
+	return -1;}
+	
+int main()
+{
+	int n,a[15],ele,index =0 ,i,pos = 0;
+		printf("enter  number of elments you want\n");
+		scanf("%d", &n);
+	for(i=0;i<n;i++)
+	{
+		scanf("%d",&a[i]);
+	}
+	printf("enter the value to be search\n");
+		
+	scanf("%d",&ele);
+	pos = linear_search(n,a,index,ele);
+	if(pos == -1)
+		printf("element not found");
+	else
+		printf("element found at %d",pos+1);
+}
