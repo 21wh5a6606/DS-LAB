@@ -63,3 +63,39 @@ int main()
 		}
 	}
 }
+
+#OUTPUT
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice1
+enter current data2
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice1
+enter current data3
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice3
+231-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice2
+deleted element is 21-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice3
+31-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice2
+deleted element is 3
+	
