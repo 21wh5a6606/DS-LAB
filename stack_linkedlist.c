@@ -69,5 +69,79 @@ int main()
     }
     }
     }
-
+#OUTPUT
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit1
+enter element to be inserted2
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit1
+enter element to be inserted3
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit1
+enter element to be inserted5
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit4
+5
+3
+2
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit2
+deleted element is 51:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit4
+3
+2
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit3
+top most element is 31:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit4
+3
+2
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit
+ 
+ #UNDERFLOW 
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit1
+enter element to be inserted2
+1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit2
+deleted element is 21:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exit2
+stack underflow
 
