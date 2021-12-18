@@ -54,3 +54,92 @@ int main()
 }
 }
 }
+
+#OUTPUT
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+enter element to be inserted2
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+enter element to be inserted3
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+enter element to be inserted4
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+enter element to be inserted5
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+3
+2
+3
+4
+5
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+2
+deleted element is 21-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+3
+2
+3
+4
+5
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+enter element to be inserted8
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+1
+queue overflow9
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+
+#UNDERFLOW
+1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+2
+queue underflow1-enqueue
+ 2-dequeue
+ 3-display
+ 4-exit
+enter your choice
+
