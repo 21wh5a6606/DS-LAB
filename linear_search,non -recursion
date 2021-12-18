@@ -27,3 +27,14 @@ int linear_search(int n,int a[n] ,int x)
                 printf("element found at %d", pos);
    }
  
+#0UTPUT
+enter  number of elments you want
+5
+2
+4
+5
+6
+7
+enter the value to be search
+6
+element found at 4
