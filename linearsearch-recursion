@@ -32,3 +32,5 @@ int main()
 	else
 		printf("element found at %d",pos+1);
 }
+
+
