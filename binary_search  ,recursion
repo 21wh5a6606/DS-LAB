@@ -31,3 +31,15 @@ int binary_search(int a[],int first,int last,int key)
               printf("element found at %d", pos);
   
   }
+
+#OUTPUT
+ enter the list of elements
+5
+2
+3
+5
+6
+7
+enter the key value
+3
+element found at 1
