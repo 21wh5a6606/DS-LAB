@@ -58,3 +58,111 @@ int main()
     }
 
 
+# OUTPUT
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+enter element to be inserted2
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice4
+2
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+enter element to be inserted3
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+enter element to be inserted4
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+enter element to be inserted5
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+enter element to be inserted6
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice1
+stack overflow7
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice4
+7
+6
+5
+4
+3
+2
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice2
+deleted element is 7
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice4
+6
+5
+4
+3
+2
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice3
+top element is 6
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice4
+6
+5
+4
+3
+2
+
+ 1:push
+ 2:pop
+ 3:peek
+ 4:display
+ 5:exitenter your choice
+
+
+
+
+
+
+
