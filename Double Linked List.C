@@ -159,3 +159,123 @@ int main(){
         }
     }
 }
+
+#OUTPUT
+/*output
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+1
+Enter the number of nodes: 3
+Enter the value to be entered into the data of the node:
+ 23
+34
+56
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+2
+Enter the element to be inserted: 67
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+2 3
+Enter the element to be inserted: 4
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+4
+Enter the element to be inserted: 2
+Enter the position: 99  3
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+4
+Enter the element to be inserted: 99
+Enter the position: 2
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+8
+67
+23
+99
+34
+2
+56
+4
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+5
+Deleted element 67
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+6
+Deleted element 23
+
