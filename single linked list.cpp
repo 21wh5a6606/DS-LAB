@@ -221,3 +221,233 @@ int main()
     } 
 	}
 }
+
+#OUTPUT
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice1
+enter number of nodes3
+2 3 4
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice2
+8
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+8->2->3->4->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice3
+1
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+8->2->3->4->1->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice4
+enter pos2
+enter ele5
+delete element is 81-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+5->2->3->4->1->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice5
+delete element is 51-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice6
+deleted element 1
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice7
+enter pos3
+deleted element at pos 41-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice8
+enter key value
+3
+element found at 21-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+2->3->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice8
+enter key value
+2
+element found at 11-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice9
+1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+2->3->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice10
+321-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice11
+2->3->1-create
+ 2-insert_begin
+ 3-insert_end
+ 4-insert_pos
+ 5-delete_begin
+ 6-delete_end
+ 7-delete_pos
+ 8-search
+ 9-sorting
+ 10-reverse_display
+ 11-dispaly 12-exit
+enter your choice
