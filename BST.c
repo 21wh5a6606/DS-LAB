@@ -84,3 +84,77 @@ int main(){
 }
 }
 	
+OUTPUT
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+1
+3
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+1
+5
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+1
+6
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+1
+8
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+2
+3
+5
+6
+8
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+3
+3
+5
+6
+8
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+4
+8
+6
+5
+3
+1-create
+ 2-preorder
+ 3-inorder
+ 4-postorder
+ 5-exit
+enter your choice
+5
+
